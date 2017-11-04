@@ -1,7 +1,9 @@
-A secure SMS app wherin user can send text from this application on a mobile phone to any mobile phone who will recieve the message
-in the default messaging app of their phone.
+A secure, quick messaging mobile application wherin user can send text from this application on an android mobile phone to any mobile phone who will recieve the message in the default messaging app of their phone.
+
 The username and password are as follows :
 Username : Admin
 Password : Admin
+
+You can upload the apk file directly to your android phone and have fun using it straight away :)
 
 Thank you!
