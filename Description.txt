@@ -1,4 +1,6 @@
-A secure, quick messaging mobile application wherin user can send text from this application on an android mobile phone to any mobile phone who will recieve the message in the default messaging app of their phone.
+A secure, quick messaging mobile application wherin user can send text from this application on an android mobile
+phone to any mobile phone who will recieve the message in the default messaging app of their phone. This application
+was made using java.
 
 The username and password are as follows :
 Username : Admin
